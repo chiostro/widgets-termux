@@ -3,7 +3,8 @@
 This project provides steps that can be used to create **widgets** on Android via [Termux:Widget](https://wiki.termux.com/wiki/Termux:Widget).
 
 ## Requirements
-1. Android device with **Termux** installed.   
+1. Android device with **Termux** installed.
+2. New script under https://github.com/chiostro/sendmail_backup_monitoring_termux/blob/main/autobck.sh you local sendmail_backup_monitoring_termux
 
 ## Installation
 
