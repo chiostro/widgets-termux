@@ -23,9 +23,10 @@ The scripts in this folder will automatically appear in Termux:Widget.
 
 (Optional) Make sure scripts are executable:
 
+```bash
 chmod +x ~/.shortcuts/*/*.sh 
 chmod +x ~/.shortcuts/*/*/*.sh
-
+```
 Usage
 On your Android home screen, open the widget menu.
 
