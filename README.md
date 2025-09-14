@@ -13,6 +13,7 @@ This project provides steps that can be used to create **widgets** on Android vi
    cd widgets-termux
 Download and extract the .tar package with preconfigured scripts:
 
+```bash
 tar -xvf widgets.tar -C ~/
 This will create or update the folder for all my projects availabe in GitHub :
 
