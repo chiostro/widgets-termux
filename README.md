@@ -27,24 +27,23 @@ The scripts in this folder will automatically appear in Termux:Widget.
 chmod +x ~/.shortcuts/*/*.sh 
 chmod +x ~/.shortcuts/*/*/*.sh
 ```
-Usage
+#Usage
 On your Android home screen, open the widget menu.
 
 The installed scripts will be listed there.
 
 Tap a script to run it directly as a widget.
 
-Custom Icons
+#Custom Icons
 You can find example .png icons in the icons/ folder of this repository.
 To assign custom icons to widgets, you can use third-party apps such as Shortcut Maker or Nova Launcher.
 
-Notes
+#Notes
 Scripts placed in ~/.shortcuts/ are automatically detected by Termux:Widget.
 
 You can add new scripts by copying them into ~/.shortcuts/.
 
-     
-License
+#License
 This progect is release under the MIT License
 
 ---
