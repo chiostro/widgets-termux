@@ -43,5 +43,9 @@ Scripts placed in ~/.shortcuts/ are automatically detected by Termux:Widget.
 
 You can add new scripts by copying them into ~/.shortcuts/.
 
+     
 
+License
+
+This project is released under the MIT License.
 ---
