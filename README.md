@@ -9,8 +9,8 @@ This project provides steps that can be used to create **widgets** on Android vi
 
 1. Clone this repository in Termux:
    ```bash
-   git clone https://github.com/chiostro/widget-termux.git
-   cd widget-termux
+   git clone https://github.com/chiostro/widgets-termux.git
+   cd widgets-termux
 Download and extract the .tar package with preconfigured scripts:
 
 tar -xvf widgets.tar -C ~/
