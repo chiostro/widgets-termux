@@ -4,7 +4,7 @@ This project provides steps that can be used to create **widgets** on Android vi
 
 ## Requirements
 1. Android device with **Termux** installed.
-2. New script under https://github.com/chiostro/sendmail_backup_monitoring_termux/blob/main/autobck.sh you local sendmail_backup_monitoring_termux
+2. Download new script  https://github.com/chiostro/sendmail_backup_monitoring_termux/blob/main/autobck.sh in your local sendmail_backup_monitoring_termux path
 
 ## Installation
 
