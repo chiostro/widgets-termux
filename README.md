@@ -16,7 +16,7 @@ Download and extract the .tar package with preconfigured scripts:
 ```bash
 tar -xvf widgets.tar -C ~/
 ```
-This will create or update the folder for all my projects availabe in GitHub :
+This will create or update the folder for all my projects available in GitHub :
 
 ~/.shortcuts/
 The scripts in this folder will automatically appear in Termux:Widget.
